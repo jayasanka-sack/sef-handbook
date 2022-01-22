@@ -1,41 +1,22 @@
-# Website
+# SEF Handbook
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
-### Installation
+Deployed at: https://sef-global.github.io/sef-handbook/
 
-```
-$ yarn
-```
 
-### Local Development
+The SEF team handbook is the central repository for how we run the organisation. As part of our value of being
+transparent the handbook is open to the world, and we welcome feedback. Please make a pull request to suggest
+improvements or add clarifications. Please use issues to ask questions.
 
-```
-$ yarn start
-```
+### More about the handbook
+We've gathered some information about the handbook here, but there's still more elsewhere.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+[Handbook usage](https://sef-global.github.io/sef-handbook/organisation/handbook/usage/)
 
-### Build
+[Practical Handbook Edits Examples](https://sef-global.github.io/sef-handbook/organisation/handbook/practical-handbook-edits/)
 
-```
-$ yarn build
-```
+## Set up the project locally
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Follow ["Edit the handbook locally"](https://sef-global.github.io/sef-handbook/organisation/handbook/edit-locally) guide to set up the project locally.
+It is a guide on what you'll need to install and run a local development environment on your machine so you can make edits locally. This allows you a better overview and preview when making complex changes.
