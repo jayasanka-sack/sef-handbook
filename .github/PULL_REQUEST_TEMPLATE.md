@@ -1,10 +1,6 @@
 ---
 labels: pending-review
-assignees:
-  - jayasanka-sack
-  - akshika47
-  - anjula-sack
-  - Piumal1999
+assignees: ["jayasanka-sack"]
 ---
 
 
