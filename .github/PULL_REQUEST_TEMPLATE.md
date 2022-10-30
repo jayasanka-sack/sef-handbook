@@ -1,6 +1,6 @@
 ---
 labels: pending-review
-assignees: ["jayasanka-sack"]
+assignees: jayasanka-sack
 ---
 
 
