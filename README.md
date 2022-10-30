@@ -21,3 +21,4 @@ We've gathered some information about the handbook here, but there's still more 
 Follow ["Edit the handbook locally"](https://sef-global.github.io/sef-handbook/organisation/handbook/edit-locally) guide
 to set up the project locally. It is a guide on what you'll need to install and run a local development environment on
 your machine so you can make edits locally. This allows you a better overview and preview when making complex changes.
+kk
